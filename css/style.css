@@ -7,9 +7,10 @@ body {
 .offer {
     display: flex;
     justify-content: center;
+    justify-content: center;
+    justify-content: center;
     align-items: center;
     background-color: #ADC9A6;
-    padding-top: 8px;
     padding-bottom: 8px;
 
 }
@@ -26,7 +27,6 @@ body {
     align-items: center;
     justify-content: flex-start;
     padding-left: 80px;
-    padding-right: 80px;
 }
 /*
 .header_logo {
